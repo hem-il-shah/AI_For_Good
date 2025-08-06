@@ -1,5 +1,11 @@
 # SwacchhAI: Live Waste Segregation
 
+Our datasets used to train: https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
+Colab: https://colab.research.google.com/drive/1dHv5QUuz2NkkgzeKBoO4DLAhLg9mOrzv?usp=sharing
+Live: https://intelligent-waste-segregation-system.streamlit.app
+
+Setup
+
 ## 🌟 Inspiration
 
 The inspiration for SwacchhAI comes from the critical issue of waste mismanagement in rural areas. People often have little to no awareness about waste segregation, leading to indiscriminate dumping, which contributes to diseases and environmental hazards. SwacchhAI aims to automate and educate through technology.
