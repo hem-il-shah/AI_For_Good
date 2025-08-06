@@ -94,3 +94,10 @@ Here are the future plans to elevate SwacchhAI:
 ## 📌 Conclusion
 
 SwacchhAI is more than a smart segregation tool—it's a scalable solution with the potential to educate, automate, and revolutionize waste management practices. Through real-time technology, AI, and community-centric features, SwacchhAI aspires to make India—and the world—a cleaner place.
+
+---
+
+References
+Streamlit Documentation: https://docs.streamlit.io/
+
+YOLO Documentation: https://github.com/ultralytics/yolov5
