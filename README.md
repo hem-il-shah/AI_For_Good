@@ -97,7 +97,8 @@ SwacchhAI is more than a smart segregation tool—it's a scalable solution with 
 
 ---
 
-References
+References:
+
 Streamlit Documentation: https://docs.streamlit.io/
 
 YOLO Documentation: https://github.com/ultralytics/yolov5
